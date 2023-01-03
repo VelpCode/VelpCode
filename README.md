@@ -4,7 +4,7 @@ Hi 👋 My name is Aman
 Wep/App Developer, Student & Tech Enthusiast
 --------------------------------------------
 
-Aman is a JavaScript developer passionate about software technologies & creating useful applications that can help others. Creating daily, https://velpcode.hashnode.dev/.
+Hello!I am a JavaScript developer passionate about software technologies & creating useful applications that can help others. Creating daily, https://velpcode.hashnode.dev/.
 
 * 🌍  I'm based in Ontario, CA
 * ✉️  You can contact me at [velpmail@gmail.com](mailto:velpmail@gmail.com)
