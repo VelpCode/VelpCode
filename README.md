@@ -4,7 +4,7 @@ Wassup 👋 I'm Aman
 Wep/App Developer, Student & Tech Enthusiast
 --------------------------------------------
 
-Hello!I am a JavaScript developer passionate about software technologies & creating useful applications that can help others. Creating daily, https://velpcode.hashnode.dev/.
+JavaScript developer passionate about software technologies & creating useful applications that can help others.
 
 * 🌐  Check out my web-portfolio! https://amanvelpu.com
 * 📍   I'm based in Ontario, CA
