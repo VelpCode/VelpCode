@@ -1,10 +1,9 @@
 Wassup 👋 I'm Aman
 =====================
 
-Developer, Student & Tech Enthusiast
+Creative JavaScript developer combining my passions while creating products & applications in the process.
 
-
-Creative JavaScript developer that's passionate about software technologies & aesthetic interfaces.
+I've got an eye for aesthetic interfaces & interactive design.
 
 * 🌐  Check out my web-portfolio! https://amanvelpu.com
 * 📍   I'm based in Ontario, CA
