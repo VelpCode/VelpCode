@@ -1,11 +1,13 @@
 Wassup 👋 I'm Aman
 =====================
 
-Creative JavaScript developer combining my passions while creating products & applications in the process.
+I'm a creative React developer with an eye for aesthetic interfaces and sleek design.
 
-I've got an eye for aesthetic interfaces & interactive design.
+My goal is to combine my passion for technology with my interests in weightlifting, lifestyle, habits, psychology, and writing to solve real-world problems.
 
-* 🌐  Check out my web-portfolio! https://amanvelpu.com
+Building my skills everyday.. enjoying the process.
+
+* 🌐  Check out my web-portfolio! https://amanvelp.com
 * 📍   I'm based in Ontario, CA
 * ✉️  You can contact me at [velpmail@gmail.com](mailto:velpmail@gmail.com)
 
