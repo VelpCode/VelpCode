@@ -1,7 +1,7 @@
 Wassup 👋 I'm Aman
 =====================
 
-I'm a creative React developer with an eye for aesthetic interfaces and sleek design.
+I'm a creative NextJS developer with an eye for aesthetic interfaces and sleek design.
 
 My goal is to combine my passion for technology with my interests in weightlifting, lifestyle, habits, psychology, and writing to solve real-world problems.
 
